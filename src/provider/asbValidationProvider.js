@@ -5,7 +5,7 @@
     'use strict';
 
     angular
-        .module('asb.validation', [])
+        .module('asb.validation')
         .provider('asbValidation', function () {
             var instance = {};
             /**
