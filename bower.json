@@ -1,0 +1,24 @@
+{
+  "name": "angular-asb-validation",
+  "version": "1.0.0",
+  "authors": [
+    "Alejandro Such Berenguer <alejandro.such@gmail.com>"
+  ],
+  "description": "Simple and extendible validation provider and directive for AngularJS",
+  "main": "lib/asbValidation.js",
+  "keywords": [
+    "angularjs",
+    "validation",
+    "provider",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alejandroSuch/angular-asb-validation",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

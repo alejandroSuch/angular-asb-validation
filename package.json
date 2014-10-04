@@ -1,0 +1,41 @@
+{
+  "name": "angular-asb-validation",
+  "version": "1.0.0",
+  "description": "Simple and extendible validation provider and directive for AngularJS",
+  "main": "lib/asbValidation.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start my.karma.js --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandroSuch/angular-asb-validation.git"
+  },
+  "keywords": [
+    "angularjs",
+    "validation",
+    "provider",
+    "directive"
+  ],
+  "author": "Alejandro Such Berenguer <alejandro.such@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejandroSuch/angular-asb-validation/issues"
+  },
+  "homepage": "https://github.com/alejandroSuch/angular-asb-validation",
+  "devDependencies": {
+    "angular": "^1.2.23",
+    "angular-mocks": "^1.2.25",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "karma": "^0.12.24",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-html-reporter": "^0.2.4",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}
